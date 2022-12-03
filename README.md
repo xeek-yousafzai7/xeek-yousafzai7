@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xeek-yousafzai7
-- 👀 I’m interested in New technologies
-- 🌱 I’m currently learning Web Development & Ethecial Hacking
-- 💞️ I’m looking to collaborate with Microsoft and work with them as an Ambassador
+- 👀 I’m interested learning in New technologies
+- 🌱 I’m currently learning Data structure & Algorithms
+- 💞️ I’m a Beta MLSA, GDSC Lead and a community Builder
 - 📫 You can reach me via my LinkedIn www.linkedin.com/in/xeek-yousafzai7 
 - 👨‍💻 Mobile Application
 - 🙌 Java, Python
